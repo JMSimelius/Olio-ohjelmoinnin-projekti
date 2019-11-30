@@ -1,0 +1,14 @@
+Kyseessä on ohjelma mikä lataa tiedostoista seuraavat listat:
+-IMDB:n top 50 listan
+-IMDB:n top 50 suomalaiset elokuvat 
+-IMDB:n top 250 listan
+-Oman elokuvalistan.
+
+Ohjelmassa voi ylläpitää omaa elokuvalistaa, eli siihen voi lisätä ja hakea nimikkeitä.
+Ohjelma tallentaa samaan tiedostoon omaa listaa, eli listaa pystyy kasvattamaan. Ohjelma tallentaa
+oman kirjaston txt-tiedostoksi, sekä myös binäärimuodossa. 
+Samalla ohjelmalta voi pyytää suosituksia eri listoilta.
+Suositusten jälkeen ohjelma kysyy löytyikö sopiva elokuva, jonka jälkeen kysyy lähetetäänkö elokuva 
+olohuoneeseen vai teatterihuoneeseen. Molemmat perivät mediapalvelin-luokan. 
+
+Valikoissa liikkuminen tapahtuu pääasiassa numeronäppäimillä, sekä k/e vastauksilla.
