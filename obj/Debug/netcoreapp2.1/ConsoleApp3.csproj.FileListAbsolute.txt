@@ -1,0 +1,11 @@
+M:\Olio-ohjelmointi\Harjoitustyö\141119\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+M:\Olio-ohjelmointi\Harjoitustyö\141119\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+M:\Olio-ohjelmointi\Harjoitustyö\141119\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+M:\Olio-ohjelmointi\Harjoitustyö\141119\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+M:\Olio-ohjelmointi\Harjoitustyö\141119\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+M:\Olio-ohjelmointi\Harjoitustyö\141119\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+M:\Olio-ohjelmointi\Harjoitustyö\141119\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+M:\Olio-ohjelmointi\Harjoitustyö\141119\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+M:\Olio-ohjelmointi\Harjoitustyö\141119\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+M:\Olio-ohjelmointi\Harjoitustyö\141119\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+M:\Olio-ohjelmointi\Harjoitustyö\141119\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
