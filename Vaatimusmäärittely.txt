@@ -1,0 +1,30 @@
+Vaatimusm‰‰rittely
+
+Ohjelmaa k‰ytet‰‰n Visual Studio ymp‰ristˆss‰, tai exe-tiedostona Windowsin kautta. 
+Konsolipohjaisen ohjelman tarkoituksena on yll‰pit‰‰ listoja, sek‰ antaa elokuvasuosituksia. Listat luetaan
+tekstitiedostosta. 
+Listat ovat:
+-IMDB:n top 50 elokuvat
+-IMDB:n top 50 suomalaiset elokuvat
+-Oma elokuvakirjasto
+-IMDB:n top 250 elokuvat
+
+Omaa elokuvakirjastoa voi kasvattaa lis‰‰m‰ll‰ sinne uusia nimikkeit‰. Lis‰yksen j‰lkeen
+ohjelma tallentaa elokuvakirjastolistan uudelleen, eli muistaa seuraavalla kertaa sinne lis‰tyt
+kohteet. Ohjelma tallentaa listan myˆs bin‰‰rimuodossa.
+
+Ohjelma alkaa luomalla Movie-olio, mik‰ sis‰lt‰‰ yll‰mainitut listat. P‰‰valikossa vaihtoehtoina on:
+-Top50 elokuvat IMDB:ss‰
+-Top50 suomalaiset elokuvat
+-Oma elokuvakirjasto
+-Lis‰‰ nimike kirjastoon
+-Elokuvasuositukset:
+	* Satunnainen valinta IMDB:n top 250 listalta
+	* Satunnainen valinta top 50 suomalaiset elokuvat
+	* Satunnainen valinta omasta elokuvakirjastosta
+	* Elokuvasuositus tapahtuu satunnaisgeneraattorin kautta
+-Etsi nimikett‰ omasta kirjastosta
+
+T‰m‰n j‰lkeen ohjelma kysyy "Lˆytyikˆ katsottava elokuva?", jonka j‰lkeen
+kysyt‰‰n mihin mediapalvelimeen elokuva l‰hetet‰‰n, eli luodaan teatteri ja olohuone-oliot. 
+T‰m‰n j‰lkeen ohjelma p‰‰ttyy. 
